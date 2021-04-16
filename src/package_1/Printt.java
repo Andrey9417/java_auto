@@ -7,7 +7,11 @@ class Printt {
         word = str;
     }
 
-    public String getStr() {
+    public String getWord() {
         return word;
+    }
+
+    public void setWord(String newStr){
+        this.word=newStr;
     }
 }

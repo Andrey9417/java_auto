@@ -6,7 +6,8 @@ public class Main {
 	// write your code here
         System.out.println("Hello " + "World!");
         Printt p = new Printt("Hello world");
-        System.out.println(p.getStr());
+        p.setWord("World, Hello!");
+        System.out.println(p.getWord());
     }
 }
 
