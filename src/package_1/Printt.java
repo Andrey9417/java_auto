@@ -11,7 +11,7 @@ class Printt {
         return word;
     }
 
-    public void setWord(String newStr){
-        this.word=newStr;
+    public void setWord(String newStr) {
+        this.word = newStr;
     }
 }
