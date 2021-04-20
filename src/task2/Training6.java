@@ -20,20 +20,13 @@ public class Training6 {
         int x = 9;
         int y;
         y = ++x;
-        System.out.println("The value of x is " + x);
-        System.out.println("The value of y is " + y);
-        System.out.println();
         y = x++;
-        System.out.println("The value of x is " + x);
-        System.out.println("The value of y is " + y);
-        System.out.println();
         y = --x;
-        System.out.println("The value of x is " + x);
-        System.out.println("The value of y is " + y);
-        System.out.println();
+        y = --x;
         y = x--;
-        System.out.println("The value of x is " + x);
-        System.out.println("The value of y is " + y);
+        System.out.println("The value of x is" + x);
+        System.out.println("The value of y is" + y);
+
 
     }
 }

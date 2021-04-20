@@ -5,8 +5,7 @@ import static java.lang.Math.sqrt;
 public class Main {
 
     /**
-     *
-     * @param args  frgrgr
+     * @param args frgrgr
      */
     public static void main(String[] args) {
 
