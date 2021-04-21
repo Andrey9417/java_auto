@@ -1,4 +1,4 @@
-package task3;
+package task3_training;
 
 //4. Write a Java program that reads a floating-point number and prints "zero" if the number is zero.
 // Otherwise, print "positive" or "negative".

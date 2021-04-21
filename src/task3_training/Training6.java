@@ -1,4 +1,4 @@
-package task3;
+package task3_training;
 
 import java.util.Scanner;
 

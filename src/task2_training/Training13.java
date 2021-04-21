@@ -1,4 +1,4 @@
-package task2;
+package task2_training;
 
 //13. Print the ASCII value of the character 'h'.
 

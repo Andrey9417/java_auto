@@ -1,4 +1,4 @@
-package task2;
+package task2_training;
 
 //14. Write a program to add 3 to the ASCII value of the character 'd' and print the equivalent character.
 

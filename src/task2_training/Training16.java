@@ -1,4 +1,4 @@
-package task2;
+package task2_training;
 
 //16. Create a Java program and define all eight data types outside of main method with static keyword,
 // and don’t initialise them. Print all of them inside your main method and see what default value is

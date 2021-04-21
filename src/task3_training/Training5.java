@@ -1,4 +1,4 @@
-package task3;
+package task3_training;
 
 //5. Write a Java program that keeps a number from the user between 1 and 7 and displays the name of the weekday
 

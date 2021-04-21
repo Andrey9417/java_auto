@@ -1,4 +1,4 @@
-package task3;
+package task3_training;
 
 //3. Take three numbers from the user and print the greatest number
 

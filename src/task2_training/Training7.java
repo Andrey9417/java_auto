@@ -1,4 +1,4 @@
-package task2;
+package task2_training;
 
 //7. Please resolve next operations
 

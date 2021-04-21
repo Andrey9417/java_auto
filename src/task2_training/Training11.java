@@ -1,4 +1,4 @@
-package task2;
+package task2_training;
 
 //11. Write a program which print to console name of folder from where you run this program
 
