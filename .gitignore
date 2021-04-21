@@ -26,9 +26,9 @@ hs_err_pid*
 *.dat
 *.iml
 out/
-package_1/
-task2_training/
-task3_training/
+src/package_1/
+src/task2_training/
+src/task3_training/
 .idea/
 
 
