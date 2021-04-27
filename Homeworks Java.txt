@@ -112,11 +112,16 @@ Enter the size: 5
 [16, 17, 18, 19, 20, 1]]
 
 HW8
-1) Create class Worker with next fields: String name, int age, String position, int salary. Give some default values to these fields and add constructor which add new values to them. Add getters and setters. Use all of methods in main in other class.
+1) Create class Worker with next fields: String name, int age, String position, int salary. Give some default
+values to these fields and add constructor which add new values to them. Add getters and setters. Use all of
+methods in main in other class.
 2) Add method toString() to Worker class. Add usage of toString() to main in other class.
-3) Create new class Dog, which has one static method and one static field. Print out value of this variable, add usage of static method in main
-4) Create class with 3 variables and 3 constructors. Add usage of all constructor and variables in main method in other class
-5) Create 2 classes, each contains 2 variables. In first class override equals and hashcode. Create few instances of both classes and compare them using ‘==’ and equals()
+3) Create new class Dog, which has one static method and one static field. Print out value of this variable,
+add usage of static method in main
+4) Create class with 3 variables and 3 constructors. Add usage of all constructor and variables in main method
+in other class
+5) Create 2 classes, each contains 2 variables. In first class override equals and hashcode. Create few instances
+of both classes and compare them using ‘==’ and equals()
 
 HW9
 In doc file
