@@ -1,5 +1,7 @@
 package task12.HW5;
 
+//5. Create program which will result StackOverflowException
+
 public class Main {
 
     public static void main(String[] args) {
