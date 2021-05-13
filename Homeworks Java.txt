@@ -180,10 +180,14 @@ described fields and overriden toString(), equals() and hashcode() methods. Comp
 as values of maps (they need to have different keys)
 
 HW14
-1. Write program which contains class with 3 generics, each is used as type of variable inside of class. Add usage of class with generics, use different types of variables for generic
-2. Create your own annotation with 5 variables as metadata fields. Add usage of new annotation for method, class, variable.
-3. Create program which read all pairs of values (more then 5 pairs) from property file and print them in console in view of map.
-4. Create program which shuffle 10 files in folder (files receive new order in folder). After every run of program files are shuffled in new order. Length of file names is constant
+1. Write program which contains class with 3 generics, each is used as type of variable inside of class.
+Add usage of class with generics, use different types of variables for generic
+2. Create your own annotation with 5 variables as metadata fields. Add usage of new annotation for method,
+class, variable.
+3. Create program which read all pairs of values (more then 5 pairs) from property file and print them in
+console in view of map.
+4. Create program which shuffle 10 files in folder (files receive new order in folder). After every run of
+program files are shuffled in new order. Length of file names is constant
 
 HW15
 Task 1
